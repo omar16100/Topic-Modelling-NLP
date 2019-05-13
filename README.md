@@ -19,4 +19,8 @@ Techniques :
                   
                   - XGBoost
                   
-Performace graph
+Performace graph :
+
+<p align="center">
+  <img src="nlp-performance.png" width="350" title="hover text">
+</p>
