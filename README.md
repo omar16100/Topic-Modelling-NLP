@@ -21,6 +21,6 @@ Techniques :
                   
 Performace graph :
 
-<p align="center">
+<p align="left">
   <img src="nlp-performance.png" width="350" title="hover text">
 </p>
